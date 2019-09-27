@@ -1,0 +1,16 @@
+#!/bin/bash
+#PBS -A loni_cyen405
+#PBS -l walltime=01:00:00
+#PBS -l nodes=1:ppn=20
+#PBS -N lab1e
+#PBS -o myjob.out
+#PBS -e myjob.err
+#PBS -q workq
+#PBS -m e
+#PBS -M lrm028@latech.edu
+
+module load matlab/r2017a
+work="/home/lrm028"
+MATLABFILE="lab1e"
+cd $work
+matlab -logfile ./lab1e.txt -nodisplay -r $MATLABFILE
