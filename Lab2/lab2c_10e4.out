@@ -1,0 +1,315 @@
+--------------------------------------
+Running PBS prologue script
+--------------------------------------
+User and Job Data:
+--------------------------------------
+Job ID:    705094.qb3
+Username:  lrm028
+Group:     latechusers
+Date:      09-Oct-2019 19:29
+Node:      qb118 (89037)
+--------------------------------------
+PBS has allocated the following nodes:
+
+qb118
+
+A total of 20 processors on 1 nodes allocated
+---------------------------------------------
+Check nodes and clean them of stray processes
+---------------------------------------------
+Checking node qb118 19:29:41 
+Done clearing all the allocated nodes
+------------------------------------------------------
+Concluding PBS prologue script - 09-Oct-2019 19:29:41
+------------------------------------------------------
+Local Sum on proccess #0 is 5000050000.000000.
+The total sum is 5000050000.000000.
+Time is 0.000125 secs.
+
+Local Sum on proccess #0 is 2500000000.000000.
+The total sum is 5000050000.000000.
+Time is 0.000123 secs.
+Local Sum on proccess #1 is 2500050000.000000.
+
+Local Sum on proccess #0 is 1666716667.000000.
+The total sum is 5000050000.000000.
+Time is 0.000140 secs.
+Local Sum on proccess #1 is 1666650000.000000.
+Local Sum on proccess #2 is 1666683333.000000.
+
+Local Sum on proccess #0 is 1249975000.000000.
+The total sum is 5000050000.000000.
+Time is 0.000150 secs.
+Local Sum on proccess #1 is 1250000000.000000.
+Local Sum on proccess #2 is 1250025000.000000.
+Local Sum on proccess #3 is 1250050000.000000.
+
+Local Sum on proccess #0 is 999970000.000000.
+The total sum is 5000050000.000000.
+Time is 0.000171 secs.
+Local Sum on proccess #1 is 999990000.000000.
+Local Sum on proccess #2 is 1000010000.000000.
+Local Sum on proccess #3 is 1000030000.000000.
+Local Sum on proccess #4 is 1000050000.000000.
+
+Local Sum on proccess #0 is 833333333.000000.
+The total sum is 5000050000.000000.
+Time is 0.000175 secs.
+Local Sum on proccess #1 is 833350000.000000.
+Local Sum on proccess #2 is 833366667.000000.
+Local Sum on proccess #3 is 833383334.000000.
+Local Sum on proccess #4 is 833300000.000000.
+Local Sum on proccess #5 is 833316666.000000.
+
+Local Sum on proccess #0 is 714278571.000000.
+The total sum is 5000050000.000000.
+Time is 0.000180 secs.
+Local Sum on proccess #1 is 714292857.000000.
+Local Sum on proccess #2 is 714307143.000000.
+Local Sum on proccess #3 is 714321429.000000.
+Local Sum on proccess #4 is 714335715.000000.
+Local Sum on proccess #5 is 714250000.000000.
+Local Sum on proccess #6 is 714264285.000000.
+
+Local Sum on proccess #0 is 624962500.000000.
+The total sum is 5000050000.000000.
+Time is 0.000183 secs.
+Local Sum on proccess #1 is 624975000.000000.
+Local Sum on proccess #2 is 624987500.000000.
+Local Sum on proccess #3 is 625000000.000000.
+Local Sum on proccess #4 is 625012500.000000.
+Local Sum on proccess #5 is 625025000.000000.
+Local Sum on proccess #6 is 625037500.000000.
+Local Sum on proccess #7 is 625050000.000000.
+
+Local Sum on proccess #0 is 555605556.000000.
+The total sum is 5000050000.000000.
+Time is 0.000197 secs.
+Local Sum on proccess #1 is 555516667.000000.
+Local Sum on proccess #2 is 555527778.000000.
+Local Sum on proccess #3 is 555538889.000000.
+Local Sum on proccess #4 is 555550000.000000.
+Local Sum on proccess #5 is 555561111.000000.
+Local Sum on proccess #6 is 555572222.000000.
+Local Sum on proccess #7 is 555583333.000000.
+Local Sum on proccess #8 is 555594444.000000.
+
+Local Sum on proccess #0 is 499960000.000000.
+Local Sum on proccess #1 is 499970000.000000.
+Local Sum on proccess #2 is 499980000.000000.
+Local Sum on proccess #3 is 499990000.000000.
+Local Sum on proccess #4 is 500000000.000000.
+Local Sum on proccess #5 is 500010000.000000.
+Local Sum on proccess #6 is 500020000.000000.
+Local Sum on proccess #7 is 500030000.000000.
+Local Sum on proccess #8 is 500040000.000000.
+Local Sum on proccess #9 is 500050000.000000.
+The total sum is 5000050000.000000.
+Time is 0.000199 secs.
+
+Local Sum on proccess #0 is 454513636.000000.
+The total sum is 5000050000.000000.
+Time is 0.000169 secs.
+Local Sum on proccess #1 is 454522727.000000.
+Local Sum on proccess #2 is 454531818.000000.
+Local Sum on proccess #3 is 454540909.000000.
+Local Sum on proccess #4 is 454550000.000000.
+Local Sum on proccess #5 is 454559091.000000.
+Local Sum on proccess #6 is 454568182.000000.
+Local Sum on proccess #7 is 454577273.000000.
+Local Sum on proccess #8 is 454586364.000000.
+Local Sum on proccess #9 is 454595455.000000.
+Local Sum on proccess #10 is 454504545.000000.
+
+Local Sum on proccess #0 is 416691666.000000.
+The total sum is 5000050000.000000.
+Time is 0.000169 secs.
+Local Sum on proccess #1 is 416700000.000000.
+Local Sum on proccess #2 is 416708334.000000.
+Local Sum on proccess #3 is 416716668.000000.
+Local Sum on proccess #4 is 416625001.000000.
+Local Sum on proccess #5 is 416633334.000000.
+Local Sum on proccess #6 is 416641667.000000.
+Local Sum on proccess #7 is 416650000.000000.
+Local Sum on proccess #8 is 416658333.000000.
+Local Sum on proccess #9 is 416666666.000000.
+Local Sum on proccess #10 is 416674999.000000.
+Local Sum on proccess #11 is 416683332.000000.
+
+Local Sum on proccess #0 is 384642307.000000.
+The total sum is 5000050000.000000.
+Time is 0.000159 secs.
+Local Sum on proccess #1 is 384650000.000000.
+Local Sum on proccess #2 is 384657693.000000.
+Local Sum on proccess #3 is 384665386.000000.
+Local Sum on proccess #4 is 384573078.000000.
+Local Sum on proccess #5 is 384580770.000000.
+Local Sum on proccess #6 is 384588462.000000.
+Local Sum on proccess #7 is 384596154.000000.
+Local Sum on proccess #8 is 384603846.000000.
+Local Sum on proccess #9 is 384611538.000000.
+Local Sum on proccess #10 is 384619230.000000.
+Local Sum on proccess #11 is 384626922.000000.
+Local Sum on proccess #12 is 384634614.000000.
+
+Local Sum on proccess #0 is 357114285.000000.
+The total sum is 5000050000.000000.
+Time is 0.000151 secs.
+Local Sum on proccess #1 is 357121428.000000.
+Local Sum on proccess #2 is 357128571.000000.
+Local Sum on proccess #3 is 357135714.000000.
+Local Sum on proccess #4 is 357142857.000000.
+Local Sum on proccess #5 is 357150000.000000.
+Local Sum on proccess #6 is 357157143.000000.
+Local Sum on proccess #7 is 357164286.000000.
+Local Sum on proccess #8 is 357171429.000000.
+Local Sum on proccess #9 is 357178572.000000.
+Local Sum on proccess #10 is 357185715.000000.
+Local Sum on proccess #11 is 357192858.000000.
+Local Sum on proccess #12 is 357100000.000000.
+Local Sum on proccess #13 is 357107142.000000.
+
+Local Sum on proccess #0 is 333323332.000000.
+The total sum is 5000050000.000000.
+Time is 0.000175 secs.
+Local Sum on proccess #1 is 333329999.000000.
+Local Sum on proccess #2 is 333336666.000000.
+Local Sum on proccess #3 is 333343333.000000.
+Local Sum on proccess #4 is 333350000.000000.
+Local Sum on proccess #5 is 333356667.000000.
+Local Sum on proccess #6 is 333363334.000000.
+Local Sum on proccess #7 is 333370001.000000.
+Local Sum on proccess #8 is 333376668.000000.
+Local Sum on proccess #9 is 333383335.000000.
+Local Sum on proccess #10 is 333290001.000000.
+Local Sum on proccess #11 is 333296667.000000.
+Local Sum on proccess #12 is 333303333.000000.
+Local Sum on proccess #13 is 333309999.000000.
+Local Sum on proccess #14 is 333316665.000000.
+
+Local Sum on proccess #0 is 312456250.000000.
+The total sum is 5000050000.000000.
+Time is 0.000163 secs.
+Local Sum on proccess #1 is 312462500.000000.
+Local Sum on proccess #2 is 312468750.000000.
+Local Sum on proccess #3 is 312475000.000000.
+Local Sum on proccess #7 is 312500000.000000.
+Local Sum on proccess #9 is 312512500.000000.
+Local Sum on proccess #10 is 312518750.000000.
+Local Sum on proccess #11 is 312525000.000000.
+Local Sum on proccess #12 is 312531250.000000.
+Local Sum on proccess #13 is 312537500.000000.
+Local Sum on proccess #14 is 312543750.000000.
+Local Sum on proccess #15 is 312550000.000000.
+Local Sum on proccess #4 is 312481250.000000.
+Local Sum on proccess #5 is 312487500.000000.
+Local Sum on proccess #6 is 312493750.000000.
+Local Sum on proccess #8 is 312506250.000000.
+
+Local Sum on proccess #0 is 294138234.000000.
+The total sum is 5000050000.000000.
+Time is 0.000171 secs.
+Local Sum on proccess #1 is 294144117.000000.
+Local Sum on proccess #2 is 294150000.000000.
+Local Sum on proccess #3 is 294155883.000000.
+Local Sum on proccess #4 is 294161766.000000.
+Local Sum on proccess #5 is 294167649.000000.
+Local Sum on proccess #6 is 294073531.000000.
+Local Sum on proccess #7 is 294079413.000000.
+Local Sum on proccess #8 is 294085295.000000.
+Local Sum on proccess #9 is 294091177.000000.
+Local Sum on proccess #10 is 294097059.000000.
+Local Sum on proccess #11 is 294102941.000000.
+Local Sum on proccess #12 is 294108823.000000.
+Local Sum on proccess #13 is 294114705.000000.
+Local Sum on proccess #14 is 294120587.000000.
+Local Sum on proccess #15 is 294126469.000000.
+Local Sum on proccess #16 is 294132351.000000.
+
+Local Sum on proccess #5 is 277805556.000000.
+Local Sum on proccess #8 is 277822224.000000.
+Local Sum on proccess #9 is 277827780.000000.
+Local Sum on proccess #12 is 277744445.000000.
+Local Sum on proccess #13 is 277750000.000000.
+Local Sum on proccess #14 is 277755555.000000.
+Local Sum on proccess #15 is 277761110.000000.
+Local Sum on proccess #0 is 277777776.000000.
+The total sum is 5000050000.000000.
+Time is 0.000180 secs.
+Local Sum on proccess #1 is 277783332.000000.
+Local Sum on proccess #2 is 277788888.000000.
+Local Sum on proccess #3 is 277794444.000000.
+Local Sum on proccess #4 is 277800000.000000.
+Local Sum on proccess #6 is 277811112.000000.
+Local Sum on proccess #7 is 277816668.000000.
+Local Sum on proccess #11 is 277738890.000000.
+Local Sum on proccess #16 is 277766665.000000.
+Local Sum on proccess #17 is 277772220.000000.
+Local Sum on proccess #10 is 277733335.000000.
+
+Local Sum on proccess #3 is 263113159.000000.
+Local Sum on proccess #5 is 263123685.000000.
+Local Sum on proccess #7 is 263134211.000000.
+Local Sum on proccess #8 is 263139474.000000.
+Local Sum on proccess #9 is 263144737.000000.
+Local Sum on proccess #10 is 263150000.000000.
+Local Sum on proccess #12 is 263160526.000000.
+Local Sum on proccess #13 is 263165789.000000.
+Local Sum on proccess #14 is 263171052.000000.
+Local Sum on proccess #17 is 263186841.000000.
+Local Sum on proccess #18 is 263192104.000000.
+Local Sum on proccess #0 is 263197368.000000.
+The total sum is 5000050000.000000.
+Time is 0.000174 secs.
+Local Sum on proccess #1 is 263202632.000000.
+Local Sum on proccess #2 is 263207896.000000.
+Local Sum on proccess #4 is 263118422.000000.
+Local Sum on proccess #6 is 263128948.000000.
+Local Sum on proccess #15 is 263176315.000000.
+Local Sum on proccess #16 is 263181578.000000.
+Local Sum on proccess #11 is 263155263.000000.
+
+Local Sum on proccess #2 is 249965000.000000.
+Local Sum on proccess #4 is 249975000.000000.
+Local Sum on proccess #5 is 249980000.000000.
+Local Sum on proccess #10 is 250005000.000000.
+Local Sum on proccess #11 is 250010000.000000.
+Local Sum on proccess #13 is 250020000.000000.
+Local Sum on proccess #18 is 250045000.000000.
+Local Sum on proccess #0 is 249955000.000000.
+The total sum is 5000050000.000000.
+Time is 0.000169 secs.
+Local Sum on proccess #1 is 249960000.000000.
+Local Sum on proccess #3 is 249970000.000000.
+Local Sum on proccess #6 is 249985000.000000.
+Local Sum on proccess #7 is 249990000.000000.
+Local Sum on proccess #8 is 249995000.000000.
+Local Sum on proccess #9 is 250000000.000000.
+Local Sum on proccess #14 is 250025000.000000.
+Local Sum on proccess #15 is 250030000.000000.
+Local Sum on proccess #16 is 250035000.000000.
+Local Sum on proccess #17 is 250040000.000000.
+Local Sum on proccess #19 is 250050000.000000.
+Local Sum on proccess #12 is 250015000.000000.
+
+------------------------------------------------------
+Running PBS epilogue script    - 09-Oct-2019 19:29:54
+------------------------------------------------------
+Checking node qb118 (MS)
+Checking node qb118 ok
+------------------------------------------------------
+Concluding PBS epilogue script - 09-Oct-2019 19:29:56
+------------------------------------------------------
+Exit Status:     0
+Job ID:          705094.qb3
+Username:        lrm028
+Group:           latechusers
+Job Name:        lab2c_10e4
+Session Id:      89036
+Resource Limits: ncpus=1,neednodes=1:ppn=20,nodes=1:ppn=20,walltime=01:00:00
+Resources Used:  cput=00:01:04,mem=0kb,vmem=0kb,walltime=00:00:14
+Queue Used:      workq
+Account String:  loni_cyen405
+Node:            qb118
+Process id:      90103
+------------------------------------------------------

@@ -1,0 +1,61 @@
+--------------------------------------
+Running PBS prologue script
+--------------------------------------
+User and Job Data:
+--------------------------------------
+Job ID:    704903.qb3
+Username:  lrm028
+Group:     latechusers
+Date:      09-Oct-2019 16:41
+Node:      qb323 (52317)
+--------------------------------------
+PBS has allocated the following nodes:
+
+qb323
+
+A total of 20 processors on 1 nodes allocated
+---------------------------------------------
+Check nodes and clean them of stray processes
+---------------------------------------------
+Checking node qb323 16:41:32 
+Done clearing all the allocated nodes
+------------------------------------------------------
+Concluding PBS prologue script - 09-Oct-2019 16:41:32
+------------------------------------------------------
+Message at proc #0: ÀŸ
+Message at proc #1: hello, droz from # 0!
+
+Message at proc #2: hello, droz from # 1!
+
+Message at proc #3: hello, droz from # 2!
+
+Message at proc #4: hello, droz from # 3!
+
+Message at proc #5: hello, droz from # 4!
+
+Message at proc #6: hello, droz from # 5!
+
+Message at proc #7: hello, droz from # 6!
+
+Time Elapsed is 0.000225 seconds.
+------------------------------------------------------
+Running PBS epilogue script    - 09-Oct-2019 16:41:33
+------------------------------------------------------
+Checking node qb323 (MS)
+Checking node qb323 ok
+------------------------------------------------------
+Concluding PBS epilogue script - 09-Oct-2019 16:41:35
+------------------------------------------------------
+Exit Status:     0
+Job ID:          704903.qb3
+Username:        lrm028
+Group:           latechusers
+Job Name:        lab2e
+Session Id:      52316
+Resource Limits: ncpus=1,neednodes=1:ppn=20,nodes=1:ppn=20,walltime=01:00:00
+Resources Used:  cput=00:00:02,mem=0kb,vmem=0kb,walltime=00:00:03
+Queue Used:      workq
+Account String:  loni_cyen405
+Node:            qb323
+Process id:      52941
+------------------------------------------------------

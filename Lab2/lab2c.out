@@ -1,0 +1,67 @@
+--------------------------------------
+Running PBS prologue script
+--------------------------------------
+User and Job Data:
+--------------------------------------
+Job ID:    704832.qb3
+Username:  lrm028
+Group:     latechusers
+Date:      09-Oct-2019 14:57
+Node:      qb121 (94501)
+--------------------------------------
+PBS has allocated the following nodes:
+
+qb121
+
+A total of 20 processors on 1 nodes allocated
+---------------------------------------------
+Check nodes and clean them of stray processes
+---------------------------------------------
+Checking node qb121 14:57:22 
+Done clearing all the allocated nodes
+------------------------------------------------------
+Concluding PBS prologue script - 09-Oct-2019 14:57:22
+------------------------------------------------------
+Local Sum on proccess #2 is 2499996500000.000000.
+Local Sum on proccess #3 is 2499997000000.000000.
+Local Sum on proccess #4 is 2499997500000.000000.
+Local Sum on proccess #6 is 2499998500000.000000.
+Local Sum on proccess #9 is 2500000000000.000000.
+Local Sum on proccess #10 is 2500000500000.000000.
+Local Sum on proccess #12 is 2500001500000.000000.
+Local Sum on proccess #14 is 2500002500000.000000.
+Local Sum on proccess #15 is 2500003000000.000000.
+Local Sum on proccess #16 is 2500003500000.000000.
+Local Sum on proccess #17 is 2500004000000.000000.
+Local Sum on proccess #18 is 2500004500000.000000.
+Local Sum on proccess #19 is 2500005000000.000000.
+Local Sum on proccess #0 is 2499995500000.000000.
+The total sum is 50000005000000.000000.
+Time is 0.008387 secs.
+Local Sum on proccess #1 is 2499996000000.000000.
+Local Sum on proccess #5 is 2499998000000.000000.
+Local Sum on proccess #7 is 2499999000000.000000.
+Local Sum on proccess #8 is 2499999500000.000000.
+Local Sum on proccess #11 is 2500001000000.000000.
+Local Sum on proccess #13 is 2500002000000.000000.
+------------------------------------------------------
+Running PBS epilogue script    - 09-Oct-2019 14:57:23
+------------------------------------------------------
+Checking node qb121 (MS)
+Checking node qb121 ok
+------------------------------------------------------
+Concluding PBS epilogue script - 09-Oct-2019 14:57:25
+------------------------------------------------------
+Exit Status:     0
+Job ID:          704832.qb3
+Username:        lrm028
+Group:           latechusers
+Job Name:        lab2c
+Session Id:      94500
+Resource Limits: ncpus=1,neednodes=1:ppn=20,nodes=1:ppn=20,walltime=01:00:00
+Resources Used:  cput=00:00:07,mem=0kb,vmem=0kb,walltime=00:00:03
+Queue Used:      workq
+Account String:  loni_cyen405
+Node:            qb121
+Process id:      95150
+------------------------------------------------------

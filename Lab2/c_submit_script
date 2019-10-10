@@ -1,0 +1,15 @@
+#!/bin/bash
+#PBS -A loni_cyen405
+#PBS -l walltime=01:00:00
+#PBS -l nodes=1:ppn=20
+#PBS -N lab2a
+#PBS -o lab2a.out
+#PBS -e myjob.err
+#PBS -q workq
+#PBS -m e
+#PBS -M lrm028@latech.edu
+
+work="/home/lrm028/Lab2"
+cd $work
+./complab2a
+#gcc -o complab2a lab2a.c

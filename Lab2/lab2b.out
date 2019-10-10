@@ -1,0 +1,66 @@
+--------------------------------------
+Running PBS prologue script
+--------------------------------------
+User and Job Data:
+--------------------------------------
+Job ID:    704829.qb3
+Username:  lrm028
+Group:     latechusers
+Date:      09-Oct-2019 14:38
+Node:      qb059 (84732)
+--------------------------------------
+PBS has allocated the following nodes:
+
+qb059
+
+A total of 20 processors on 1 nodes allocated
+---------------------------------------------
+Check nodes and clean them of stray processes
+---------------------------------------------
+Checking node qb059 14:38:24 
+Done clearing all the allocated nodes
+------------------------------------------------------
+Concluding PBS prologue script - 09-Oct-2019 14:38:24
+------------------------------------------------------
+Hello world from #12 of 20!
+Hello world from #14 of 20!
+Hello world from #15 of 20!
+Hello world from #16 of 20!
+Hello world from #17 of 20!
+Hello world from #10 of 20!
+Hello world from #11 of 20!
+Hello world from #13 of 20!
+Hello world from #18 of 20!
+Hello world from #19 of 20!
+Hello world from #1 of 20!
+Hello world from #3 of 20!
+Hello world from #4 of 20!
+Hello world from #5 of 20!
+Hello world from #7 of 20!
+Hello world from #8 of 20!
+Hello world from #9 of 20!
+Hello world from #0 of 20!
+Hello world from #2 of 20!
+Hello world from #6 of 20!
+Time on rank #0 is 0.000286!
+------------------------------------------------------
+Running PBS epilogue script    - 09-Oct-2019 14:38:25
+------------------------------------------------------
+Checking node qb059 (MS)
+Checking node qb059 ok
+------------------------------------------------------
+Concluding PBS epilogue script - 09-Oct-2019 14:38:27
+------------------------------------------------------
+Exit Status:     0
+Job ID:          704829.qb3
+Username:        lrm028
+Group:           latechusers
+Job Name:        lab2b
+Session Id:      84731
+Resource Limits: ncpus=1,neednodes=1:ppn=20,nodes=1:ppn=20,walltime=01:00:00
+Resources Used:  cput=00:00:06,mem=0kb,vmem=0kb,walltime=00:00:03
+Queue Used:      workq
+Account String:  loni_cyen405
+Node:            qb059
+Process id:      85380
+------------------------------------------------------

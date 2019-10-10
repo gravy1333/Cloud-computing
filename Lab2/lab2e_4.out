@@ -1,0 +1,60 @@
+--------------------------------------
+Running PBS prologue script
+--------------------------------------
+User and Job Data:
+--------------------------------------
+Job ID:    705289.qb3
+Username:  lrm028
+Group:     latechusers
+Date:      10-Oct-2019 10:01
+Node:      qb133 (22808)
+--------------------------------------
+PBS has allocated the following nodes:
+
+qb133
+
+A total of 20 processors on 1 nodes allocated
+---------------------------------------------
+Check nodes and clean them of stray processes
+---------------------------------------------
+Checking node qb133 10:01:51 
+Done clearing all the allocated nodes
+------------------------------------------------------
+Concluding PBS prologue script - 10-Oct-2019 10:01:51
+------------------------------------------------------
+Message at proc #0: ÀŸ
+Message at proc #1: hello, droz from # 0!
+
+Message at proc #2: hello, droz from # 1!
+
+Message at proc #3: hello, droz from # 2!
+
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 23419 RUNNING AT qb133
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+------------------------------------------------------
+Running PBS epilogue script    - 10-Oct-2019 10:01:51
+------------------------------------------------------
+Checking node qb133 (MS)
+Checking node qb133 ok
+------------------------------------------------------
+Concluding PBS epilogue script - 10-Oct-2019 10:01:53
+------------------------------------------------------
+Exit Status:     1
+Job ID:          705289.qb3
+Username:        lrm028
+Group:           latechusers
+Job Name:        lab2e_4
+Session Id:      22807
+Resource Limits: ncpus=1,neednodes=1:ppn=20,nodes=1:ppn=20,walltime=01:00:00
+Resources Used:  cput=00:00:01,mem=0kb,vmem=0kb,walltime=00:00:02
+Queue Used:      workq
+Account String:  loni_cyen405
+Node:            qb133
+Process id:      23425
+------------------------------------------------------

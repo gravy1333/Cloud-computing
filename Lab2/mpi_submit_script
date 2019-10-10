@@ -1,0 +1,15 @@
+#!/bin/bash
+#PBS -A loni_cyen405
+#PBS -l walltime=01:00:00
+#PBS -l nodes=1:ppn=20
+#PBS -N lab2e_4
+#PBS -o lab2e_4.out
+#PBS -e myjob.err
+#PBS -q workq
+#PBS -m e
+#PBS -M lrm028@latech.edu
+
+work="/home/lrm028/Lab2"
+cd $work
+mpirun -machinefile $PBS_NODEFILE -np 4 ./complab2e
+#mpicc -o ouput input

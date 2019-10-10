@@ -1,0 +1,88 @@
+--------------------------------------
+Running PBS prologue script
+--------------------------------------
+User and Job Data:
+--------------------------------------
+Job ID:    705196.qb3
+Username:  lrm028
+Group:     latechusers
+Date:      09-Oct-2019 20:51
+Node:      qb036 (42204)
+--------------------------------------
+PBS has allocated the following nodes:
+
+qb036
+
+A total of 20 processors on 1 nodes allocated
+---------------------------------------------
+Check nodes and clean them of stray processes
+---------------------------------------------
+Checking node qb036 20:51:17 
+Done clearing all the allocated nodes
+------------------------------------------------------
+Concluding PBS prologue script - 09-Oct-2019 20:51:17
+------------------------------------------------------
+Local Sum on proccess #2 is 27777777888888888.000000.
+Local Sum on proccess #3 is 27777777933628128.000000.
+Local Sum on proccess #4 is 27777778000000000.000000.
+Local Sum on proccess #6 is 27777778111111112.000000.
+Local Sum on proccess #7 is 27777778155850360.000000.
+Local Sum on proccess #9 is 27777778266961472.000000.
+Local Sum on proccess #0 is 27777777777777776.000000.
+The total sum is 500000000402653184.000000.
+Time is 228.902002 secs.
+Local Sum on proccess #1 is 27777777822517024.000000.
+Local Sum on proccess #5 is 27777778044739244.000000.
+Local Sum on proccess #8 is 27777778222222224.000000.
+Local Sum on proccess #10 is 27777777333333336.000000.
+Local Sum on proccess #11 is 27777777378072576.000000.
+Local Sum on proccess #13 is 27777777489183688.000000.
+Local Sum on proccess #16 is 27777777666666664.000000.
+Local Sum on proccess #17 is 27777777711405912.000000.
+Local Sum on proccess #12 is 27777777444444444.000000.
+Local Sum on proccess #15 is 27777777600294804.000000.
+Local Sum on proccess #14 is 27777777555555556.000000.
+
+Local Sum on proccess #4 is 26315789300393640.000000.
+Local Sum on proccess #0 is 26315789089867324.000000.
+The total sum is 500000000707479168.000000.
+Time is 3020.772916 secs.
+Local Sum on proccess #1 is 26315789142498908.000000.
+Local Sum on proccess #2 is 26315789195130480.000000.
+Local Sum on proccess #3 is 26315789247762064.000000.
+Local Sum on proccess #5 is 26315789353025220.000000.
+Local Sum on proccess #6 is 26315789405656796.000000.
+Local Sum on proccess #7 is 26315789458288376.000000.
+Local Sum on proccess #8 is 26315789510919956.000000.
+Local Sum on proccess #9 is 26315789563551540.000000.
+Local Sum on proccess #10 is 26315789616183112.000000.
+Local Sum on proccess #11 is 26315789668814696.000000.
+Local Sum on proccess #12 is 26315789721446272.000000.
+Local Sum on proccess #13 is 26315789774077852.000000.
+Local Sum on proccess #14 is 26315789826709428.000000.
+Local Sum on proccess #15 is 26315789879341008.000000.
+Local Sum on proccess #16 is 26315789931972588.000000.
+Local Sum on proccess #17 is 26315789984604172.000000.
+Local Sum on proccess #18 is 26315789037235744.000000.
+
+------------------------------------------------------
+Running PBS epilogue script    - 09-Oct-2019 21:51:52
+------------------------------------------------------
+Checking node qb036 (MS)
+Checking node qb036 ok
+------------------------------------------------------
+Concluding PBS epilogue script - 09-Oct-2019 21:51:57
+------------------------------------------------------
+Exit Status:     271
+Job ID:          705196.qb3
+Username:        lrm028
+Group:           latechusers
+Job Name:        lab2c_10e8b2
+Session Id:      42203
+Resource Limits: ncpus=1,neednodes=1:ppn=20,nodes=1:ppn=20,walltime=01:00:00
+Resources Used:  cput=02:01:04,mem=9600kb,vmem=320580kb,walltime=01:00:36
+Queue Used:      workq
+Account String:  loni_cyen405
+Node:            qb036
+Process id:      43721
+------------------------------------------------------
